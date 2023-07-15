@@ -1,0 +1,50 @@
+[
+    {
+      "nome": "Mario",
+      "cognome": "Rossi",
+      "data_nascita": "1985-07-15",
+      "luogo_nascita": "Roma",
+      "indirizzo": "Via Roma 123",
+      "codice_fiscale": "RSSMRA85L15H501A",
+      "sesso": "M",
+      "telefono": "3331234567",
+      "email": "mario.rossi@example.com",
+      "professione": "Ingegnere"
+    },
+    {
+      "nome": "Laura",
+      "cognome": "Bianchi",
+      "data_nascita": "1990-03-21",
+      "luogo_nascita": "Milano",
+      "indirizzo": "Via Milano 456",
+      "codice_fiscale": "BNCCHR90C21F205Z",
+      "sesso": "F",
+      "telefono": "3339876543",
+      "email": "laura.bianchi@example.com",
+      "professione": "Avvocato"
+    },
+    {
+      "nome": "Luigi",
+      "cognome": "Verdi",
+      "data_nascita": "1978-11-02",
+      "luogo_nascita": "Napoli",
+      "indirizzo": "Via Napoli 789",
+      "codice_fiscale": "VRDLGI78S02I234R",
+      "sesso": "M",
+      "telefono": "3335554444",
+      "email": "luigi.verdi@example.com",
+      "professione": "Medico"
+    },
+    {
+      "nome": "Giulia",
+      "cognome": "Russo",
+      "data_nascita": "1995-09-08",
+      "luogo_nascita": "Palermo",
+      "indirizzo": "Via Palermo 567",
+      "codice_fiscale": "RSSGLI95P08G789B",
+      "sesso": "F",
+      "telefono": "3331112222",
+      "email": "giulia.russo@example.com",
+      "professione": "Architetto"
+    }
+  ]
