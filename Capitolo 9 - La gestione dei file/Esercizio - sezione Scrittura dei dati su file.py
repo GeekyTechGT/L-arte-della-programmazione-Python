@@ -1,0 +1,5 @@
+file = open("output.txt", "w")
+file.write("Prima riga\n")
+file.write("Seconda riga\n")
+file.write("Terza riga\n")
+file.close()
